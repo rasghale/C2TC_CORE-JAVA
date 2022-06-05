@@ -13,7 +13,5 @@ public class Company {
 		c3.name="C2TC";
 				System.out.println(c3.name);
 		
-
 	}
-
 }
