@@ -15,7 +15,7 @@ public class SingleInheritance {
 	// TODO Auto-generated method stub
 breath a=new breath();
 a.inout();
-a.();
+
 
 	}
 
